@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 
-/* Aplikasi CRUD sederhana */
+/* Aplikasi CRUD sederhana 
+   Version 0.1
+*/
 void menu();
 void tambahMahasiswa();
 void tampilkanData();
